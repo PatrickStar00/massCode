@@ -1,0 +1,124 @@
+{
+  "folders": [
+    {
+      "id": "K3Zb6yxZ",
+      "name": "Default",
+      "defaultLanguage": "typescript",
+      "parentId": null,
+      "isOpen": false,
+      "isSystem": false,
+      "createdAt": 1658807890927,
+      "updatedAt": 1658807890927
+    },
+    {
+      "name": "一些有用的开源项目",
+      "parentId": null,
+      "isOpen": false,
+      "isSystem": false,
+      "defaultLanguage": "plain_text",
+      "id": "xmQ7D0KC",
+      "createdAt": 1658824238696,
+      "updatedAt": 1658824259269
+    }
+  ],
+  "snippets": [
+    {
+      "isDeleted": false,
+      "isFavorites": false,
+      "folderId": "K3Zb6yxZ",
+      "tagsIds": [],
+      "description": null,
+      "name": "MassCode",
+      "content": [
+        {
+          "label": "Fragment 1",
+          "language": "markdown",
+          "value": "# Hellow MassCode\n这是一个简短的测试\n- 1\n- 2\n- 3"
+        }
+      ],
+      "id": "WxvjxP9r",
+      "createdAt": 1658814600592,
+      "updatedAt": 1658814770093
+    },
+    {
+      "isDeleted": false,
+      "isFavorites": false,
+      "folderId": "xmQ7D0KC",
+      "tagsIds": [
+        "z99Dhfzl"
+      ],
+      "description": null,
+      "name": "XbrForPixelArt",
+      "content": [
+        {
+          "label": "Fragment 1",
+          "language": "plain_text",
+          "value": "xbr算法平滑像素画\nUnity用像素画转换为非像素画的xbr算法\nhttps://github.com/llapuras/UnityXbrShader"
+        }
+      ],
+      "id": "c98nq7Pf",
+      "createdAt": 1658824263408,
+      "updatedAt": 1658824592988
+    },
+    {
+      "isDeleted": true,
+      "isFavorites": false,
+      "folderId": "xmQ7D0KC",
+      "tagsIds": [],
+      "description": null,
+      "name": "未命名代码片段",
+      "content": [
+        {
+          "label": "子片段 1",
+          "language": "plain_text",
+          "value": "子片段 1"
+        },
+        {
+          "label": "子片段 2",
+          "language": "plain_text",
+          "value": "子片段 1"
+        },
+        {
+          "label": "子片段 3",
+          "language": "plain_text",
+          "value": "子片段测试3"
+        }
+      ],
+      "id": "JPWxjrzu",
+      "createdAt": 1658824545813,
+      "updatedAt": 1658824586514
+    },
+    {
+      "isDeleted": true,
+      "isFavorites": false,
+      "folderId": "xmQ7D0KC",
+      "tagsIds": [],
+      "description": null,
+      "name": "未命名代码片段",
+      "content": [
+        {
+          "label": "子片段 1",
+          "language": "plain_text",
+          "value": ""
+        }
+      ],
+      "id": "vYu_ezR8",
+      "createdAt": 1658824608224,
+      "updatedAt": 1658824615486
+    }
+  ],
+  "tags": [
+    {
+      "name": "!",
+      "id": "TjGp4_Yj",
+      "createdAt": 1658814626751,
+      "updatedAt": 1658814626751
+    },
+    {
+      "name": "像素",
+      "id": "z99Dhfzl",
+      "createdAt": 1658824295255,
+      "updatedAt": 1658824295255
+    }
+  ]
+}
